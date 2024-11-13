@@ -683,10 +683,11 @@ void lcd_write(Lcd_HandleTypeDef * lcd, uint8_t data, uint8_t len)
 
 ```
 ## Output screen shots of proteus  :
- 
- ![alt text](<Screenshot (24).png>)
+ ![image](https://github.com/user-attachments/assets/0da4f955-13b0-4c64-929e-5757a707844d)
+
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![alt text](<Screenshot (25).png>)
+![image](https://github.com/user-attachments/assets/e987ad7f-40fb-49c5-9035-877910189305)
+
  
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
